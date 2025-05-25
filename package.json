@@ -1,12 +1,13 @@
 {
-  "name": "keutelbank",
-  "version": "0.0.1",
+  "name": "pinkpop-keutelbank-firebase",
+  "version": "1.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
+    "firebase": "^10.8.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
